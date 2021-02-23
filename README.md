@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sakuriki | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="sakuriki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sakuriki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sakuriki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,7 +41,7 @@
 5. 💪 Opened PR [#12977](https://github.com/vuetifyjs/vuetify/pull/12977) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
-<img align="left" alt="sakuriki's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakuriki&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+<img align="left" alt="sakuriki's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakuriki&show_icons=true&hide_border=true&count_private=true" />
 
 [twitter]: https://twitter.com/sakurikiii
 [youtube]: https://www.youtube.com/channel/UCNAgnuT3lc_DnuiLNegiH8Q
