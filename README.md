@@ -1,6 +1,6 @@
-## Hi there, I'm Hoàng 👋
+## Hi there, I'm Hoàng aka sakuriki 👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Laravel and Vue.js
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play game
 
