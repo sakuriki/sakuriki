@@ -42,7 +42,8 @@
 5. 💪 Opened PR [#12977](https://github.com/vuetifyjs/vuetify/pull/12977) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
-<img align="left" alt="sakuriki's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sakuriki&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="sakuriki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sakuriki&show_icons=true&hide_border=true&count_private=true" />
+<img align="center" alt="sakuriki's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuriki&layout=compact" />
 
 [facebook]: https://www.facebook.com/sakurikii
 [twitter]: https://twitter.com/sakurikiii
