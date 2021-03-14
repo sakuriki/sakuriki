@@ -35,11 +35,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sakuriki/hifymart/pull/2) in [sakuriki/hifymart](https://github.com/sakuriki/hifymart)
-2. 💪 Opened PR [#2](https://github.com/sakuriki/hifymart/pull/2) in [sakuriki/hifymart](https://github.com/sakuriki/hifymart)
-3. 💪 Opened PR [#12990](https://github.com/vuetifyjs/vuetify/pull/12990) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-4. ❌ Reopened PR [#12977](https://github.com/vuetifyjs/vuetify/pull/12977) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-5. ❌ Closed PR [#12977](https://github.com/vuetifyjs/vuetify/pull/12977) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1. 🎉 Merged PR [#3](https://github.com/sakuriki/hifymart/pull/3) in [sakuriki/hifymart](https://github.com/sakuriki/hifymart)
+2. 🎉 Merged PR [#2](https://github.com/sakuriki/hifymart/pull/2) in [sakuriki/hifymart](https://github.com/sakuriki/hifymart)
+3. 💪 Opened PR [#2](https://github.com/sakuriki/hifymart/pull/2) in [sakuriki/hifymart](https://github.com/sakuriki/hifymart)
+4. 💪 Opened PR [#12990](https://github.com/vuetifyjs/vuetify/pull/12990) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+5. ❌ Reopened PR [#12977](https://github.com/vuetifyjs/vuetify/pull/12977) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 <!--END_SECTION:activity-->
 
 <img align="center" alt="sakuriki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sakuriki&show_icons=true&hide_border=true&count_private=true" />
